@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zaid Saiyed
+- 👀 I’m interested in Artificial intelligence
+- 🌱 I’m currently learning Computer programming
+- 📫 How to reach me : connect@zaidsaiyed.com
