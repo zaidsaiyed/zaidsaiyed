@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Zaid Saiyed
 - 👀 I’m interested in Algorithms
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science and Programming
 - 📫 How to reach me : admin@zaidsaiyed.com
